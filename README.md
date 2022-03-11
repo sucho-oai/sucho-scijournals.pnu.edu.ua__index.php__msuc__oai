@@ -1,15 +1,29 @@
-## Project parent repositories
+## Parent Project 
 
- * [https://github.com/sucho-oai](https://github.com/sucho-oai)
- * [https://sr.ht/~justinkelly/SUCHO/](https://sr.ht/~justinkelly/SUCHO/)
+ * List of Git repositories in this project: [https://github.com/sucho-oai](https://github.com/sucho-oai)
+ * Description and details for this project: [https://github.com/sucho-oai/admin](https://github.com/sucho-oai/admin)
 
-## About
+## About this repository
 
 This is a repository of the full harvest of the OAI-PMH server: https://scijournals.pnu.edu.ua/index.php/msuc/oai using [metha](https://github.com/miku/metha)
 
-The purpose of this project to take harvests of as many Ukrainian OAI-PMH repository servers (metadata and source files) as possible. Refer [https://github.com/sucho-oai](https://github.com/sucho-oai) for all the repositories harvested. 1 Git repository per OAI-PMH repository server or endpoint.
+## About this project
+
+The purpose of this project to take harvests of as many Ukrainian OAI-PMH repository servers (metadata and source files) as possible. Refer [https://github.com/sucho-oai](https://github.com/sucho-oai) for all the repositories harvested. 1 Git repository per OAI-PMH repository endpoint.
+
+Currently over 800 Ukrainian OAI endpoints have been documented, and harvests started
+
+### What is a OAI-PMH repository?
+
+OAI-PMH is an interoperability protocol used by archival and document repository servers. 
+
+### What is a document repository??
+
+Libraries, universities, institutions, reasearch organisations, academic publishers and more store, manage and publish their important documents - suchs as jounrals, thesis, research, iamges etc.. in doucment repository server - such as ePrints, OJS or Dspace.
 
 Repositories harvested include (but not limited to) academic journals, thesis PDFs, conference papers, images/photos, maps, scanned paintings and historical phtos - predominently from libraries (Univerities, regional, government, national and research), galleries, museums, government departments etc...
+
+### Why? 
 
 With the intent that if a Ukrainian repository is taken offline - it can be rebuild using these source files.
 
